@@ -14,7 +14,7 @@ $categoria = $conn->query($sql_categoria);
 <!DOCTYPE html> 
 <html> 
     <head> 
-        <title>Aerolínea</title> 
+        <title>Aerolíneas</title> 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
